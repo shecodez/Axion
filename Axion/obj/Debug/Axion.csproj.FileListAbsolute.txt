@@ -1,0 +1,11 @@
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\Axion.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\App.g.i.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\App.g.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\Common\StandardStyles.g.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\MainPage.g.i.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\MainPage.g.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\XamlTypeInfo.g.cs
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\App.xaml
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\Common\StandardStyles.xaml
+c:\users\jan\documents\visual studio 2012\Projects\Axion\Axion\obj\Debug\MainPage.xaml
